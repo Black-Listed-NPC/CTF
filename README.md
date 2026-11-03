@@ -8,7 +8,7 @@ Writeups, solve scripts and notes from Capture The Flag competitions I've played
 
 | Event | Date | Team | Rank | Challenges solved | Writeups |
 |-------|------|------|------|-------------------|----------|
-| SecLeaf CTF | Nov 2026 | `<team name / solo>` | `<rank / total>` | `<n>` | [📂 Open](./SecLeaf/) |
+| SecLeaf CTF | 31 Oct 2026 | `Err0r` | `125` | `<n>` | [📂 Open](./SecLeaf/) |
 
 ## 🗂️ Repository structure
 
